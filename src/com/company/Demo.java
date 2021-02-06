@@ -17,7 +17,6 @@ public class Demo {
     static void printIntersection(int arr1[], int arr2[])
     {
         HashSet<Integer> hs = new HashSet<>();
-        HashSet<Integer> hs1 = new HashSet<>();
 
         for (int i = 0; i < arr1.length; i++)
             hs.add(arr1[i]);
@@ -26,6 +25,7 @@ public class Demo {
             if (hs.contains(arr2[i]))
                 System.out.print(arr2[i] + " ");
     }
+
     public static void main(String[] args) {
         int arr1[] = { 7, 1, 5, 2, 3, 6 };
         int arr2[] = { 3, 8, 6, 20, 7 };
