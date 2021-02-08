@@ -13,7 +13,7 @@ public class MoveNegative {
         for (int i = 0;i<n;i++)  // inserting n elements in the array;
             arr[i] = scanner.nextInt();
         System.out.println("\nThe array is : ");
-        for (int i = 0;i<n;i++)  // inserting n elements in the array;
+        for (int i = 0;i<n;i++)
             System.out.print(arr[i]+" ");
         int left  = 0,right = n-1;
         /**Logic Implemented below **/

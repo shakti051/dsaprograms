@@ -41,6 +41,7 @@ public class Union {
         System.out.println("\nThe union is :");
         System.out.println(hs);
     }
+
     static void printIntersection(int arr1[], int arr2[])
     {
         HashSet<Integer> hs = new HashSet<>();
