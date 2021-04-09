@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Union {
     public static void main(String[] args) {
-        int n,k;
+        int n;
         System.out.print("Enter the number of elements first array: ");//Enter 101
         Scanner scanner = new Scanner(System.in);
         n = scanner.nextInt();
