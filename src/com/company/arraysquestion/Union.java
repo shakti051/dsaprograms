@@ -1,4 +1,4 @@
-package com.company;
+package com.company.arraysquestion;
 import java.util.HashSet;
 import java.util.Scanner;
 

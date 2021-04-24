@@ -1,4 +1,4 @@
-package com.company;
+package com.company.arraysquestion;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
