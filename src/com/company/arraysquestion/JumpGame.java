@@ -6,6 +6,7 @@ public class JumpGame {
         int minJump = minJumps(arr);
         System.out.println("The min no of jumps "+minJump);
     }
+
     static int minJumps(int[] arr){
         int n = arr.length;
         int maxR = arr[0];
@@ -27,6 +28,6 @@ public class JumpGame {
                 }
             }
         }
-        return step;
+        return jump;
     }
 }
