@@ -24,8 +24,8 @@ public class CommonElements {
                 z++;
 
         }
-        System.out.println("Common elements from three sorted (in non-decreasing order ) arrays: ");
 
+        System.out.println("Common elements from three sorted (in non-decreasing order ) arrays: ");
         System.out.println(common);
     }
 }
