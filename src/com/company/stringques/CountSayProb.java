@@ -2,7 +2,7 @@ package com.company.stringques;
 
 public class CountSayProb {
     public static void main(String[] args) {
-        int n =5;
+        int n =6;
         String say = countAndSay(n);
         System.out.println("The sequence is: "+say);
     }
