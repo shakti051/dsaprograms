@@ -2,7 +2,7 @@ package com.company.comparray;
 /**Finding sum of digits of a number until sum becomes single digit**/
 public class DigitSum {
     public static void main(String[] args) {
-        int n = 5674;
+        int n = 564;
         System.out.println(digSum(n));
     }
     static int digSum(int n)
