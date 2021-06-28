@@ -2,10 +2,11 @@ package com.company.stringques;
 
 public class LongPrefixSuffix {
     public static void main(String[] args) {
-        String str = "acbdac";
+        String str = "acdkac";
         String prefix = longestPrefix(str);
         System.out.println(prefix);
     }
+
       static String longestPrefix(String str) {
         int length=str.length();
         String suffix = "";
