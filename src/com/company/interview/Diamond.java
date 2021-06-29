@@ -1,4 +1,4 @@
-package com.company.arraysquestion;
+package com.company.interview;
 
 public class Diamond {
     public static void main(String[] args) {
