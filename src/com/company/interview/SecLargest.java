@@ -1,5 +1,5 @@
 package com.company.interview;
-import java.util.Arrays;
+
 public class SecLargest {
     public static void main(String[] args) {
        int a[]=  {43,48,56,78,65,45,35,39};
