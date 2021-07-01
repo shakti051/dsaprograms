@@ -8,7 +8,7 @@ public class MissingElement {
        int totalSum = n*(n+1)/2;
        for (int i=0;i<arr.length;i++)
             sum += arr[i];
-    int missing =  totalSum -sum;
+        int missing =  totalSum -sum;
         System.out.println("The missing element is: "+missing);
     }
 }
