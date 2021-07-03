@@ -1,5 +1,5 @@
 package com.company.interview;
-
+// plot 64, pocktet 1 jasola -
 public class VTriangle {
     public static void main(String[] args) {
         int i,j,k=0;

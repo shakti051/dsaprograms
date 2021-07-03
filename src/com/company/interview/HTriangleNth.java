@@ -1,5 +1,4 @@
 package com.company.interview;
-
 import java.util.Scanner;
 
 public class HTriangleNth {
