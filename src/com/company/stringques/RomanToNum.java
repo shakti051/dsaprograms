@@ -1,11 +1,10 @@
 package com.company.stringques;
-
 import java.util.HashMap;
 import java.util.Map;
 
 public class RomanToNum {
     public static void main(String[] args) {
-     String roman = "CCVI";
+     String roman = "XLIX";
      int num = romanToInt(roman);
         System.out.println("The num is : "+num);
     }
