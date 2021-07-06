@@ -1,5 +1,4 @@
 package com.company.sorting;
-
 import java.util.ArrayList;
 
 public class EqualIndex {
