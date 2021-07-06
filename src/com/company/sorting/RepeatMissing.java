@@ -2,6 +2,7 @@ package com.company.sorting;
 import java.util.Arrays;
 
 public class RepeatMissing {
+    /**Find repeating and missing element in an array.**/
     public static void main(String[] args) {
         int arr[] = {1, 2, 2, 4};
         int n = arr.length;

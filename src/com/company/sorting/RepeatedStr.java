@@ -14,7 +14,6 @@ public class RepeatedStr {
                     set.add(words[i]);
             }
         }
-
         System.out.println(set);
     }
 }
